@@ -1,0 +1,1 @@
+C:\Users\ibrah\Documents\GitHub\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\Phoneword\Phoneword\Phoneword.csproj;x64
