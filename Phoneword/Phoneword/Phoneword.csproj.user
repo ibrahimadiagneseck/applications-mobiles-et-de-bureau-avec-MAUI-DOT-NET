@@ -20,6 +20,9 @@
     <MauiXaml Update="MainPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="TestPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="Platforms\Windows\App.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
