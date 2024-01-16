@@ -1,44 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
+
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Phoneword.MainPage">
+         xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+         x:Class="Phoneword.MainPage">
 
-    <!-- fichier MainPage.xaml contient la disposition de la page. Cette disposition contient 
-    le code XAML d’un bouton avec la légende Cliquer ici, ainsi qu’une image qui affiche le fichier dotnet_bot.png. Il existe également deux autres étiquettes. -->
 
-    <ScrollView>
-        <VerticalStackLayout
-            Spacing="25"
-            Padding="30,0"
-            VerticalOptions="Center">
+    <!-- Ajoutez un contrôle VerticalStackLayout avec une orientation verticale et un espacement de 15 unités et une marge intérieure de 20 unités à la page ContentPage : -->
+    <VerticalStackLayout Spacing="15" Padding="20">
+        <!-- Ajoutez un contrôle Label à la disposition StackLayout : -->
+        <Label Text = "Enter a Phoneword" FontSize ="20"/>
+        <!-- Un contrôle Entry fournit une zone de texte dans laquelle l’utilisateur peut entrer des données. 
+        Dans ce code, la propriété x:Name donne un nom au contrôle. Vous référencerez ce contrôle dans le code de l’application ultérieurement : -->
+        <Entry x:Name = "PhoneNumberText" Text = "1-555-NETMAUI" />
 
-            <Image
-                Source="dotnet_bot.png"
-                SemanticProperties.Description="Cute dot net bot waving hi to you!"
-                HeightRequest="200"
-                HorizontalOptions="Center" />
-
-            <Label
-                Text="Hello, World!"
-                SemanticProperties.HeadingLevel="Level1"
-                FontSize="32"
-                HorizontalOptions="Center" />
-
-            <Label
-                Text="Welcome to .NET Multi-platform App UI"
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
-                FontSize="18"
-                HorizontalOptions="Center" />
-
-            <Button
-                x:Name="CounterBtn"
-                Text="Click me"
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
-                HorizontalOptions="Center" />
-
-        </VerticalStackLayout>
-    </ScrollView>
+        <!-- Deux contrôles Button à la disposition VerticalStackLayout, après le contrôle Entry. Les deux boutons ne font actuellement rien, et le second est désactivé initialement -->
+        <Button x:Name = "TranslateButton" Text = "Translate" Clicked = "OnTranslate"/>
+        <Button x:Name = "CallButton" Text = "Call" IsEnabled = "False" Clicked = "OnCall"/>
+    </VerticalStackLayout>
 
 </ContentPage>

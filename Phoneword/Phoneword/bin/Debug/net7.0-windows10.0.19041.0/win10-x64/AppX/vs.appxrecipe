@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\ibrah\Documents\GitHub\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\Phoneword\Phoneword\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-01-15T22:13:04.074</Modified>
+      <Modified>2024-01-16T02:01:56.864</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\ibrah\Documents\GitHub\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\Phoneword\Phoneword\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-01-15T22:13:03.616</Modified>
+      <Modified>2024-01-16T02:00:29.243</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ibrah\Documents\GitHub\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\Phoneword\Phoneword\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Phoneword.runtimeconfig.json">
       <PackagePath>Phoneword.runtimeconfig.json</PackagePath>
@@ -44,15 +44,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ibrah\Documents\GitHub\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\Phoneword\Phoneword\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Phoneword.dll">
       <PackagePath>Phoneword.dll</PackagePath>
-      <Modified>2024-01-15T22:13:01.267</Modified>
+      <Modified>2024-01-16T02:01:55.283</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ibrah\Documents\GitHub\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\Phoneword\Phoneword\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Phoneword.exe</PackagePath>
-      <Modified>2024-01-15T22:13:01.285</Modified>
+      <Modified>2024-01-16T02:01:55.301</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ibrah\Documents\GitHub\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\Phoneword\Phoneword\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Phoneword.deps.json">
       <PackagePath>Phoneword.deps.json</PackagePath>
-      <Modified>2024-01-15T22:13:03.259</Modified>
+      <Modified>2024-01-16T02:00:28.883</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ibrah\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.13\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>

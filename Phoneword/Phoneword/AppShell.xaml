@@ -7,14 +7,14 @@
     xmlns:local="clr-namespace:Phoneword"
     Shell.FlyoutBehavior="Disabled">
 
-    <!--<ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />-->
-
     <ShellContent
         Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+    <!--<ShellContent
+        Title="Home"
         ContentTemplate="{DataTemplate local:TestPage}"
-        Route="TestPage" />
-    
+        Route="TestPage" /> -->
+
 </Shell>
