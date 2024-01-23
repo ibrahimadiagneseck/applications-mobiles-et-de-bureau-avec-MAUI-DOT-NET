@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\ibrah\Documents\GitHub\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\Phoneword\Phoneword\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-01-16T02:01:56.864</Modified>
+      <Modified>2024-01-23T03:16:13.392</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
