@@ -1,4 +1,6 @@
-﻿namespace Notes;
+﻿using Microsoft.Maui.Controls;
+
+namespace Notes;
 
 /*public partial class MainPage : ContentPage
 {
@@ -55,6 +57,7 @@
 public partial class MainPage : ContentPage
 {
     string _fileName = Path.Combine(FileSystem.AppDataDirectory, "notes.txt");
+    /*Editor editor;*/
 
     public MainPage()
     {
@@ -70,4 +73,14 @@ public partial class MainPage : ContentPage
     {
         File.WriteAllText(_fileName, editor.Text);
     }
+
+    void OnDeleteButtonClicked(object sender, EventArgs e)
+    {
+        if (File.Exists(_fileName))
+        {
+            File.Delete(_fileName);
+        }
+        editor.Text = string.Empty;
+    }
 }
+
