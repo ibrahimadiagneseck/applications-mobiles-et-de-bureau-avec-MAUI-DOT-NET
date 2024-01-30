@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\Documents\\GitHub\\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\\Phoneword\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F57FB29C-882B-46C6-AA46-8B7378D3BDA9}|Phoneword\\Phoneword.csproj|c:\\users\\ibrah\\documents\\github\\applications-mobiles-et-de-bureau-avec-maui-dot-net\\phoneword\\phoneword\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57FB29C-882B-46C6-AA46-8B7378D3BDA9}|Phoneword\\Phoneword.csproj|solutionrelative:phoneword\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57FB29C-882B-46C6-AA46-8B7378D3BDA9}|Phoneword\\Phoneword.csproj|c:\\users\\ibrah\\documents\\github\\applications-mobiles-et-de-bureau-avec-maui-dot-net\\phoneword\\phoneword\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F57FB29C-882B-46C6-AA46-8B7378D3BDA9}|Phoneword\\Phoneword.csproj|solutionrelative:phoneword\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57FB29C-882B-46C6-AA46-8B7378D3BDA9}|Phoneword\\Phoneword.csproj|c:\\users\\ibrah\\documents\\github\\applications-mobiles-et-de-bureau-avec-maui-dot-net\\phoneword\\phoneword\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57FB29C-882B-46C6-AA46-8B7378D3BDA9}|Phoneword\\Phoneword.csproj|solutionrelative:phoneword\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57FB29C-882B-46C6-AA46-8B7378D3BDA9}|Phoneword\\Phoneword.csproj|c:\\users\\ibrah\\documents\\github\\applications-mobiles-et-de-bureau-avec-maui-dot-net\\phoneword\\phoneword\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F57FB29C-882B-46C6-AA46-8B7378D3BDA9}|Phoneword\\Phoneword.csproj|solutionrelative:phoneword\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57FB29C-882B-46C6-AA46-8B7378D3BDA9}|Phoneword\\Phoneword.csproj|c:\\users\\ibrah\\documents\\github\\applications-mobiles-et-de-bureau-avec-maui-dot-net\\phoneword\\phoneword\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57FB29C-882B-46C6-AA46-8B7378D3BDA9}|Phoneword\\Phoneword.csproj|solutionrelative:phoneword\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57FB29C-882B-46C6-AA46-8B7378D3BDA9}|Phoneword\\Phoneword.csproj|c:\\users\\ibrah\\documents\\github\\applications-mobiles-et-de-bureau-avec-maui-dot-net\\phoneword\\phoneword\\phonewordtranslator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57FB29C-882B-46C6-AA46-8B7378D3BDA9}|Phoneword\\Phoneword.csproj|solutionrelative:phoneword\\phonewordtranslator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57FB29C-882B-46C6-AA46-8B7378D3BDA9}|Phoneword\\Phoneword.csproj|c:\\users\\ibrah\\documents\\github\\applications-mobiles-et-de-bureau-avec-maui-dot-net\\phoneword\\phoneword\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57FB29C-882B-46C6-AA46-8B7378D3BDA9}|Phoneword\\Phoneword.csproj|solutionrelative:phoneword\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Documents\\GitHub\\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\\Phoneword\\Phoneword\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Phoneword\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\ibrah\\Documents\\GitHub\\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\\Phoneword\\Phoneword\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Phoneword\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-01-23T03:32:28.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Documents\\GitHub\\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\\Phoneword\\Phoneword\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Phoneword\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Documents\\GitHub\\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\\Phoneword\\Phoneword\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Phoneword\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T03:31:44.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Documents\\GitHub\\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\\Phoneword\\Phoneword\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Phoneword\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Documents\\GitHub\\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\\Phoneword\\Phoneword\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Phoneword\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T03:31:41.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Documents\\GitHub\\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\\Phoneword\\Phoneword\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Phoneword\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Documents\\GitHub\\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\\Phoneword\\Phoneword\\MauiProgram.cs",
+              "RelativeToolTip": "Phoneword\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T03:23:35.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Documents\\GitHub\\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\\Phoneword\\Phoneword\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Phoneword\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\ibrah\\Documents\\GitHub\\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\\Phoneword\\Phoneword\\MainPage.xaml",
+              "RelativeToolTip": "Phoneword\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-16T01:06:20.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhonewordTranslator.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Documents\\GitHub\\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\\Phoneword\\Phoneword\\PhonewordTranslator.cs",
+              "RelativeDocumentMoniker": "Phoneword\\PhonewordTranslator.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Documents\\GitHub\\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\\Phoneword\\Phoneword\\PhonewordTranslator.cs",
+              "RelativeToolTip": "Phoneword\\PhonewordTranslator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBMwBwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T01:01:41.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Documents\\GitHub\\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\\Phoneword\\Phoneword\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Phoneword\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Documents\\GitHub\\applications-mobiles-et-de-bureau-avec-MAUI-DOT-NET\\Phoneword\\Phoneword\\MainPage.xaml.cs",
+              "RelativeToolTip": "Phoneword\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T22:00:10.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
