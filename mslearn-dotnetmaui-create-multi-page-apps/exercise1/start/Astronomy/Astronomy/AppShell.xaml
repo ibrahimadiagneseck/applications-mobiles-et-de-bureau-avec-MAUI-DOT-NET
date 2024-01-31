@@ -3,9 +3,31 @@
     x:Class="Astronomy.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:Astronomy.Pages">
+    xmlns:local="clr-namespace:Astronomy.Pages"
+    FlyoutIcon="moon.png">
 
-    <ShellContent
+    <Shell.FlyoutHeader>
+        <Grid HeightRequest="100" BackgroundColor="DarkSlateBlue">
+            <Image Source="moon.png" />
+        </Grid>
+    </Shell.FlyoutHeader>
+
+
+    <FlyoutItem Title="Moon Phase" Icon="moon.png">
+        <ShellContent
         ContentTemplate="{DataTemplate local:MoonPhasePage}"/>
+    </FlyoutItem>
+
+    <FlyoutItem Title="Sunrise">
+        <ShellContent
+        ContentTemplate="{DataTemplate local:SunrisePage}" Icon="sun.png"/>
+    </FlyoutItem>
+
+    <FlyoutItem Title="About">
+        <ShellContent
+        ContentTemplate="{DataTemplate local:AboutPage}" Icon="question.png"/>
+    </FlyoutItem>
 
 </Shell>
+    
+    
